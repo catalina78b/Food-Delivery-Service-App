@@ -1,0 +1,10 @@
+Report 1: time interval of the orders:[13,14]
+
+OrderID: 10
+ClientID: 2
+Products: Banana Macadamia Pancakes with Orange Butter , Aunt Holly's Banana Bread , Date: 2022-05-23T13:04:50.364261600
+
+OrderID: 9
+ClientID: 2
+Products: Banana Macadamia Pancakes with Orange Butter , Aunt Holly's Banana Bread , Caramelized Banana with Rum Sauce , Date: 2022-05-23T13:03:26.454072700
+

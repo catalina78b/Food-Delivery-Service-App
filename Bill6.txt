@@ -1,0 +1,14 @@
+Order nb.6
+
+First Name: a
+Last Name: a
+Address: a
+Email: a
+Phone number: a
+
+Products: 
+Butter-Sugar Crepes    Price: 25.0
+Sweet Potato Macaroni and Cheese    Price: 70.0
+Bacon and Cashew Caramel Corn    Price: 10.0
+Total price: 105.0
+Date: 2022-05-23T01:59:47.246010

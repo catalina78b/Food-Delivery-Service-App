@@ -1,0 +1,12 @@
+Order nb.5
+
+First Name: Pop
+Last Name: Andrei
+Address: Str. Crinilor nr.8
+Email: andrei2001@yahoo.com
+Phone number: 0735274987
+
+Products: 
+Sweet and Sour Pickles    Price: 12.0
+Total price: 12.0
+Date: 2022-05-23T01:58:41.938938100

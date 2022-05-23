@@ -1,0 +1,14 @@
+Order nb.1
+
+First Name: Pop
+Last Name: Andrei
+Address: Str. Crinilor nr.8
+Email: andrei2001@yahoo.com
+Phone number: 0735274987
+
+Products: 
+Brandy Alexander II    Price: 42.0
+Crudites with Asian-Style Dip    Price: 46.0
+Napa Cabbage Salad with Buttermilk Dressing    Price: 21.0
+Total price: 109.0
+Date: 2022-05-23T01:56:05.097026300

@@ -1,0 +1,14 @@
+Order nb.9
+
+First Name: Pop
+Last Name: Andrei
+Address: Str. Crinilor nr.8
+Email: andrei2001@yahoo.com
+Phone number: 0735274987
+
+Products: 
+Banana Macadamia Pancakes with Orange Butter    Price: 32.0
+Aunt Holly's Banana Bread    Price: 46.0
+Caramelized Banana with Rum Sauce    Price: 24.0
+Total price: 102.0
+Date: 2022-05-23T13:03:26.454072700

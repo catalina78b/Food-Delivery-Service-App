@@ -1,0 +1,8 @@
+Report 3: the clients that have ordered more than 1 times so far and the value of the order was higher than 10
+
+Clients: Id: 2
+Name: Pop Andrei
+
+Id: 5
+Name: a a
+
